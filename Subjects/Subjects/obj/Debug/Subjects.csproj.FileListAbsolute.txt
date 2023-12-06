@@ -1,0 +1,14 @@
+D:\C++ projects\Subjects\Subjects\bin\Debug\Subjects.exe.config
+D:\C++ projects\Subjects\Subjects\bin\Debug\Subjects.exe
+D:\C++ projects\Subjects\Subjects\bin\Debug\Subjects.pdb
+D:\C++ projects\Subjects\Subjects\obj\Debug\Subjects.csproj.AssemblyReference.cache
+D:\C++ projects\Subjects\Subjects\obj\Debug\Subjects.Properties.Resources.resources
+D:\C++ projects\Subjects\Subjects\obj\Debug\Subjects.csproj.GenerateResource.cache
+D:\C++ projects\Subjects\Subjects\obj\Debug\Subjects.csproj.CoreCompileInputs.cache
+D:\C++ projects\Subjects\Subjects\obj\Debug\Subjects.exe
+D:\C++ projects\Subjects\Subjects\obj\Debug\Subjects.pdb
+D:\C++ projects\Subjects\Subjects\obj\Debug\Subjects.Form1.resources
+D:\C++ projects\Subjects\Subjects\obj\Debug\Subjects.addSubjectForm.resources
+D:\C++ projects\Subjects\Subjects\obj\Debug\Subjects.editSubjectForm.resources
+D:\C++ projects\Subjects\Subjects\bin\Debug\SubjectsDB.mdf
+D:\C++ projects\Subjects\Subjects\bin\Debug\SubjectsDB_log.ldf
